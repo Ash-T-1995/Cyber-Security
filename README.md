@@ -1,6 +1,3 @@
-# CyberSecurity
-Projects worked on in Cyber Security unit
-
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
@@ -75,6 +72,7 @@ This ELK server is configured to monitor the following machines:
 
 Web 1
 10.1.0.160
+
 Web 2
 10.1.0.170
 
